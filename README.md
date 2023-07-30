@@ -1,5 +1,11 @@
 # ATM_TimeSeries_Forecasting
 This project is a personal training task to learn timeseries forecasting. The hypothesis is, as if I am a Data Scientist for a bank and have a task presented to me by my manager. </br>
+
+### Repo files
+This repo contains:
+- The notebook used to develop this project
+- The dataset in xcel format
+- The requirements.txt for reproducibility
 ### Project
 The bank has recently expanded its operations to a new region. The ATM operations manager is interested in predicting the demand for the ATMs one week ahead to ensure adequate resources and a positive user experience.
 
@@ -19,3 +25,5 @@ Cash Out: displays the cumulative total of the amount withdrawn
 Remaining Amount: amount available for cash-out.
 Status: ATM service status (up/down).
 datetime: date and time values were recorded.
+
+
